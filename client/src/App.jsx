@@ -16,7 +16,7 @@ function App() {
   return (
     <>
      <h1>Welcome to Frontend</h1>
-     <p>Message: {message}</p>
+     <p>Message:- {message}</p>
     </>
   )
 }
