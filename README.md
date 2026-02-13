@@ -95,22 +95,6 @@ Returns:
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here later)
-
----
-
-## 🚀 Future Improvements
-
-- Add database integration
-- Add authentication (JWT)
-- Add environment variables
-- Dockerize project
-- Deploy to cloud
-
----
-
 ## 👨‍💻 Author
 
 **Sudhir**
